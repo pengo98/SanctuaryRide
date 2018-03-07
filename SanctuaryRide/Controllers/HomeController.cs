@@ -10,6 +10,7 @@ namespace SanctuaryRide.Controllers
     {
         public IActionResult Index()
         {
+            ViewBag.Title = "Sanctuary Ride";
             return View();
         }
     }
