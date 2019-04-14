@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace SanctuaryRide.Controllers
 {
-    public class RegisterController : Controller
+    public class FaqController : Controller
     {
         public IActionResult Index()
         {
