@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace SanctuaryRide.Controllers
 {
-    public class BlogController : Controller
+    public class HighlightsController : Controller
     {
         public IActionResult Index()
         {
