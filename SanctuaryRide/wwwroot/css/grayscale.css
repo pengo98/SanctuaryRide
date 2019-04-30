@@ -145,6 +145,7 @@ a:focus, a:hover {
   font-size: 18px;
 }
 
+
 @media (min-width: 768px) {
   .masthead {
     height: 100%;
@@ -280,4 +281,9 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+@media only screen and (max-width: 767px) {
+    .masthead {
+        background: url("../img/intro-bg-mobile.jpg") no-repeat center center scroll;
+    }
 }
