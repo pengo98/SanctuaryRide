@@ -293,3 +293,8 @@ video {
     height: auto;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
