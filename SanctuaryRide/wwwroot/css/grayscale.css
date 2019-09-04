@@ -134,7 +134,7 @@ a:focus, a:hover {
 
 .masthead .intro-body {
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: bottom;
 }
 
 .masthead .intro-body .brand-heading {
